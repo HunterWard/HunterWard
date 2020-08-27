@@ -4,7 +4,7 @@
 
 ## Projects I'm Currently Working On
 * Translating a chip8 emulator from python to C++.  *(C++ version's progress can be found in my repositories)*
-* Machine learning project which uses computer vision libraries to detect whether an MLB pitcher is tipping his pitches.  Written in python. *(Partially uploaded in repositories, full version commit coming soon)*
+* Machine learning project which uses computer vision libraries to detect whether an MLB pitcher is tipping his pitches.  Written in python. *(Partially uploaded in repositories, full version commit coming soon with results)*
 * A machine learning model to predict sport outcomes for websites such as draftkings or fanduel.  Written in python. *(Currently Private)*
 * An American Football simulation engine written in C#. *(Currently private)*
 
